@@ -1,1 +1,1 @@
-This is the system_engineering-devops repo
+This repository contains system engineering and devops scripts.
